@@ -1,0 +1,13 @@
+Unable to find image 'registry.zanelab.com/zhala/image-scanner:latest' locally
+latest: Pulling from zhala/image-scanner
+c158987b0551: Pulling fs layer
+8651c76bcc18: Pulling fs layer
+c158987b0551: Download complete
+c158987b0551: Pull complete
+8651c76bcc18: Download complete
+8651c76bcc18: Pull complete
+Digest: sha256:c61f217983a48d287507d4821b171406f9bd1aac85a5bd3659ce7d442e1f9cb8
+Status: Downloaded newer image for registry.zanelab.com/zhala/image-scanner:latest
+2022/12/04 01:35:15 error during command execution: 1 error occurred:
+	* failed to construct source from user input "zhala/utils-imager:latest": could not fetch image "zhala/utils-imager:latest": unable to use OciRegistry source: failed to get image descriptor from registry: GET https://index.docker.io/v2/zhala/utils-imager/manifests/latest: UNAUTHORIZED: authentication required; [map[Action:pull Class: Name:zhala/utils-imager Type:repository]]
+

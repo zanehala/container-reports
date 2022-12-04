@@ -1,0 +1,7 @@
+[0;90m[0016][0m [0;33m WARN[0m some package(s) are missing CPEs. This may result in missing vulnerabilities. You may autogenerate these using: --add-cpes-if-none
+NAME                            INSTALLED  FIXED-IN  TYPE       VULNERABILITY        SEVERITY 
+github.com/Masterminds/goutils  v1.1.0     1.1.1     go-module  GHSA-xg2h-wx96-xgxr  Low       
+google.golang.org/protobuf      v1.28.0              go-module  CVE-2021-22570       Medium    
+google.golang.org/protobuf      v1.27.1              go-module  CVE-2015-5237        High      
+google.golang.org/protobuf      v1.28.0              go-module  CVE-2015-5237        High      
+google.golang.org/protobuf      v1.27.1              go-module  CVE-2021-22570       Medium    
