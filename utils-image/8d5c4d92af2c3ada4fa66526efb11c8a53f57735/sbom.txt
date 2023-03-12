@@ -10,498 +10,498 @@ c158987b0551: Pull complete
 8651c76bcc18: Pull complete
 Digest: sha256:c61f217983a48d287507d4821b171406f9bd1aac85a5bd3659ce7d442e1f9cb8
 Status: Downloaded newer image for registry.zanelab.com/zhala/image-scanner:latest
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/busybox
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/ld-musl-x86_64.so.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libapk.so.3.12.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libcrypto.so.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libssl.so.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libz.so.1.2.13
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/apk
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/getconf
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/getent
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/iconv
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/scanelf
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/ssl_client
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/afalg.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/capi.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/loader_attic.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/padlock.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/ossl-modules/legacy.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/bash
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/hostname
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/ifconfig
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/netstat
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/route
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libcom_err.so.2.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/arp
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/ipmaddr
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/iptunnel
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/mii-tool
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/nameif
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/plipconfig
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/rarp
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/slattach
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/arpaname
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/c_rehash
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/curl
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/delv
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/dig
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/dnstap-read
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/drill
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/git
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/git-shell
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/host
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/iperf
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/jq
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/kcat
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/make
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/mdig
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-checkzone
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-journalprint
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-rrchecker
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nmap
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nslookup
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nsupdate
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/openssl
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/python3.10
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/accept
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/basename
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/csv
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/cut
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/dirname
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/dsv
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/fdflags
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/finfo
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/getconf
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/head
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/id
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/ln
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/logname
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mkdir
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mkfifo
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mktemp
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mypid
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/pathchk
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/print
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/printenv
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/push
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/realpath
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/rm
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/rmdir
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/seq
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/setpgid
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/sleep
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/stat
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/strftime
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/sync
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/tee
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/truefalse
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/tty
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/uname
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/unlink
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/whoami
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/kdb/db2.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/otp.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/spake.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/test.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/tls/k5tls.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbind9-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlicommon.so.1.0.9
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlidec.so.1.0.9
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlienc.so.1.0.9
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbz2.so.1.0.8
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libcurl.so.4.8.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libdns-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libexpat.so.1.8.10
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libffi.so.8.1.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libformw.so.6.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libfstrm.so.0.1.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgcc_s.so.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgdbm.so.6.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgdbm_compat.so.4.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgssapi_krb5.so.2.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgssrpc.so.4.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libirs-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisc-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisccc-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisccfg-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libjq.so.1.0.4
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libk5crypto.so.3.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkadm5clnt_mit.so.12.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkadm5srv_mit.so.12.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkdb5.so.10.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkeyutils.so.1.10
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrad.so.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrb5.so.3.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrb5support.so.0.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libldns.so.3.5.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/liblz4.so.1.9.4
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/liblzma.so.5.2.9
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmenuw.so.6.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmpdec++.so.2.5.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmpdec.so.2.5.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libncursesw.so.6.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libnghttp2.so.14.24.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libns-9.18.11.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libonig.so.5.3.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpanelw.so.6.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcap.so.1.10.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre.so.1.2.13
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre2-8.so.0.11.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre2-posix.so.3.0.4
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcreposix.so.0.0.7
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libprotobuf-c.so.1.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpython3.10.so.1.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpython3.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/librdkafka++.so.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/librdkafka.so.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libreadline.so.8.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libsasl2.so.3.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libsqlite3.so.0.8.6
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libssh2.so.1.0.1
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libstdc++.so.6.0.30
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libuv.so.1.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libverto.so.1.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libxml2.so.2.10.3
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libyajl.so.2.1.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libzstd.so.1.5.2
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/lua5.3/liblua-5.3.so.0.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_asyncio.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_bisect.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_blake2.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_cn.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_iso2022.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_jp.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_kr.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_tw.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_crypt.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_csv.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ctypes.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ctypes_test.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_curses.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_curses_panel.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_datetime.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_dbm.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_elementtree.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_heapq.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_json.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_lsprof.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_md5.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_multibytecodec.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_pickle.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_posixshmem.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_posixsubprocess.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_queue.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_random.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha1.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha256.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha3.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha512.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_socket.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sqlite3.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ssl.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_statistics.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_struct.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testbuffer.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testcapi.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testclinic.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testimportmultiple.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testinternalcapi.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testmultiphase.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_xxsubinterpreters.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_xxtestfuzz.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_zoneinfo.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/array.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/audioop.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/binascii.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/cmath.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/fcntl.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/grp.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/math.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/mmap.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/ossaudiodev.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/pyexpat.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/readline.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/resource.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/select.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/spwd.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/syslog.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/termios.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/unicodedata.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/xxlimited.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/xxlimited_35.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/zlib.cpython-310-x86_64-linux-gnu.so
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libanonymous.so.3.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libplain.so.3.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libsasldb.so.3.0.0
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-http-fetch
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-http-push
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-remote-http
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-sh-i18n--envsubst
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/ddns-confgen
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/iftop
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/rndc-confgen
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/update-ca-certificates
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t32.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64-arm.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w32.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64-arm.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
-[0;90m[0016][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64.exe
-[0;90m[0016][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/busybox
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/ld-musl-x86_64.so.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libapk.so.3.12.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libcrypto.so.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libssl.so.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libz.so.1.2.13
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/apk
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/getconf
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/getent
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/iconv
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/scanelf
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/ssl_client
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/afalg.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/capi.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/loader_attic.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/engines-3/padlock.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/ossl-modules/legacy.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/bash
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/hostname
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/ifconfig
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/netstat
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/bin/route
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/lib/libcom_err.so.2.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/arp
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/ipmaddr
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/iptunnel
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/mii-tool
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/nameif
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/plipconfig
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/rarp
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/sbin/slattach
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/arpaname
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/c_rehash
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/curl
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/delv
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/dig
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/dnstap-read
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/drill
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/git
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/git-shell
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/host
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/iperf
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/jq
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/kcat
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/make
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/mdig
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-checkzone
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-journalprint
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/named-rrchecker
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nmap
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nslookup
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/nsupdate
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/openssl
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/bin/python3.10
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/accept
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/basename
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/csv
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/cut
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/dirname
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/dsv
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/fdflags
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/finfo
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/getconf
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/head
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/id
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/ln
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/logname
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mkdir
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mkfifo
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mktemp
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/mypid
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/pathchk
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/print
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/printenv
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/push
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/realpath
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/rm
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/rmdir
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/seq
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/setpgid
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/sleep
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/stat
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/strftime
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/sync
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/tee
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/truefalse
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/tty
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/uname
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/unlink
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/bash/whoami
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/kdb/db2.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/otp.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/spake.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/preauth/test.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/krb5/plugins/tls/k5tls.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbind9-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlicommon.so.1.0.9
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlidec.so.1.0.9
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbrotlienc.so.1.0.9
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libbz2.so.1.0.8
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libcurl.so.4.8.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libdns-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libexpat.so.1.8.10
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libffi.so.8.1.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libformw.so.6.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libfstrm.so.0.1.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgcc_s.so.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgdbm.so.6.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgdbm_compat.so.4.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgssapi_krb5.so.2.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libgssrpc.so.4.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libirs-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisc-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisccc-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libisccfg-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libjq.so.1.0.4
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libk5crypto.so.3.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkadm5clnt_mit.so.12.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkadm5srv_mit.so.12.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkdb5.so.10.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkeyutils.so.1.10
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrad.so.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrb5.so.3.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libkrb5support.so.0.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libldns.so.3.5.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/liblz4.so.1.9.4
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/liblzma.so.5.2.9
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmenuw.so.6.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmpdec++.so.2.5.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libmpdec.so.2.5.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libncursesw.so.6.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libnghttp2.so.14.24.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libns-9.18.11.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libonig.so.5.3.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpanelw.so.6.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcap.so.1.10.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre.so.1.2.13
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre2-8.so.0.11.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcre2-posix.so.3.0.4
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpcreposix.so.0.0.7
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libprotobuf-c.so.1.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpython3.10.so.1.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libpython3.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/librdkafka++.so.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/librdkafka.so.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libreadline.so.8.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libsasl2.so.3.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libsqlite3.so.0.8.6
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libssh2.so.1.0.1
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libstdc++.so.6.0.30
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libuv.so.1.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libverto.so.1.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libxml2.so.2.10.3
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libyajl.so.2.1.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/libzstd.so.1.5.2
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/lua5.3/liblua-5.3.so.0.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_asyncio.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_bisect.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_blake2.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_cn.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_iso2022.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_jp.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_kr.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_codecs_tw.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_crypt.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_csv.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ctypes.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ctypes_test.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_curses.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_curses_panel.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_datetime.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_dbm.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_elementtree.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_heapq.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_json.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_lsprof.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_md5.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_multibytecodec.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_pickle.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_posixshmem.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_posixsubprocess.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_queue.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_random.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha1.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha256.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha3.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sha512.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_socket.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_sqlite3.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_ssl.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_statistics.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_struct.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testbuffer.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testcapi.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testclinic.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testimportmultiple.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testinternalcapi.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_testmultiphase.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_xxsubinterpreters.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_xxtestfuzz.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/_zoneinfo.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/array.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/audioop.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/binascii.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/cmath.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/fcntl.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/grp.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/math.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/mmap.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/ossaudiodev.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/pyexpat.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/readline.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/resource.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/select.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/spwd.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/syslog.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/termios.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/unicodedata.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/xxlimited.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/xxlimited_35.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/lib-dynload/zlib.cpython-310-x86_64-linux-gnu.so
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libanonymous.so.3.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libplain.so.3.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/sasl2/libsasldb.so.3.0.0
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-http-fetch
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-http-push
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-remote-http
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/libexec/git-core/git-sh-i18n--envsubst
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/ddns-confgen
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/iftop
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/rndc-confgen
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/sbin/update-ca-certificates
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t32.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64-arm.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w32.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64-arm.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
+[0;90m[0015][0m [0;33m WARN[0m unable to read golang buildinfo [0;33merror[0m=not a Go executable [0;33mfile[0m=/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64.exe
+[0;90m[0015][0m [0;33m WARN[0m golang cataloger: bin parsing: number of builds and readers doesn't match
 NAME                                                             VERSION                                   TYPE      
 ./staging/src/k8s.io/api                                         (devel)                                   go-module  
 ./staging/src/k8s.io/apimachinery                                (devel)                                   go-module  
@@ -516,11 +516,11 @@ alpine-baselayout                                                3.4.0-r0       
 alpine-baselayout-data                                           3.4.0-r0                                  apk        
 alpine-keys                                                      2.4-r1                                    apk        
 apk-tools                                                        2.12.10-r1                                apk        
-awscli                                                           1.27.84                                   python     
+awscli                                                           1.27.89                                   python     
 bash                                                             5.2.15-r0                                 apk        
 bind-libs                                                        9.18.11-r0                                apk        
 bind-tools                                                       9.18.11-r0                                apk        
-botocore                                                         1.29.84                                   python     
+botocore                                                         1.29.89                                   python     
 brotli-libs                                                      1.0.9-r9                                  apk        
 busybox                                                          1.35.0                                    binary     
 busybox                                                          1.35.0-r29                                apk        
@@ -600,11 +600,11 @@ github.com/evanphx/json-patch                                    v4.12.0+incompa
 github.com/evanphx/json-patch                                    v5.6.0+incompatible                       go-module  
 github.com/exponent-io/jsonpath                                  v0.0.0-20151013193312-d6023ce2651d        go-module  
 github.com/fatih/camelcase                                       v1.0.0                                    go-module  
-github.com/fatih/color                                           v1.7.0                                    go-module  
+github.com/fatih/color                                           v1.13.0                                   go-module  
 github.com/fatih/color                                           v1.9.0                                    go-module  
 github.com/fvbommel/sortorder                                    v1.0.1                                    go-module  
 github.com/go-errors/errors                                      v1.0.1                                    go-module  
-github.com/go-gorp/gorp/v3                                       v3.0.2                                    go-module  
+github.com/go-gorp/gorp/v3                                       v3.0.5                                    go-module  
 github.com/go-logr/logr                                          v1.2.0                                    go-module  
 github.com/go-logr/logr                                          v1.2.3                                    go-module  
 github.com/go-openapi/jsonpointer                                v0.19.5                                   go-module  
@@ -627,6 +627,7 @@ github.com/google/gofuzz                                         v1.2.0         
 github.com/google/shlex                                          v0.0.0-20191202100458-e7afc7fbc510        go-module  
 github.com/google/uuid                                           v1.1.2                                    go-module  
 github.com/google/uuid                                           v1.2.0                                    go-module  
+github.com/google/uuid                                           v1.3.0                                    go-module  
 github.com/googleapis/gax-go/v2                                  v2.0.5                                    go-module  
 github.com/googleapis/gnostic                                    v0.5.5                                    go-module  
 github.com/gorilla/mux                                           v1.8.0                                    go-module  
@@ -661,8 +662,9 @@ github.com/hashicorp/terraform-registry-address                  v0.0.0-20220623
 github.com/hashicorp/terraform-svchost                           v0.0.0-20200729002733-f050f53b9734        go-module  
 github.com/hashicorp/yamux                                       v0.0.0-20181012175058-2f1d1f20f75d        go-module  
 github.com/huandu/xstrings                                       v1.3.2                                    go-module  
-github.com/huandu/xstrings                                       v1.3.3                                    go-module  
+github.com/huandu/xstrings                                       v1.4.0                                    go-module  
 github.com/imdario/mergo                                         v0.3.12                                   go-module  
+github.com/imdario/mergo                                         v0.3.13                                   go-module  
 github.com/imdario/mergo                                         v0.3.6                                    go-module  
 github.com/jmespath/go-jmespath                                  v0.4.0                                    go-module  
 github.com/jmoiron/sqlx                                          v1.3.5                                    go-module  
@@ -683,10 +685,10 @@ github.com/manicminer/hamilton                                   v0.44.0        
 github.com/manicminer/hamilton-autorest                          v0.2.0                                    go-module  
 github.com/masterzen/simplexml                                   v0.0.0-20190410153822-31eea3082786        go-module  
 github.com/masterzen/winrm                                       v0.0.0-20200615185753-c42b5136ff88        go-module  
-github.com/mattn/go-colorable                                    v0.0.9                                    go-module  
+github.com/mattn/go-colorable                                    v0.1.13                                   go-module  
 github.com/mattn/go-colorable                                    v0.1.6                                    go-module  
 github.com/mattn/go-isatty                                       v0.0.12                                   go-module  
-github.com/mattn/go-isatty                                       v0.0.3                                    go-module  
+github.com/mattn/go-isatty                                       v0.0.17                                   go-module  
 github.com/mattn/go-runewidth                                    v0.0.9                                    go-module  
 github.com/mattn/go-shellwords                                   v1.0.4                                    go-module  
 github.com/matttproud/golang_protobuf_extensions                 v1.0.2                                    go-module  
@@ -725,12 +727,14 @@ github.com/prometheus/client_golang                              v1.14.0        
 github.com/prometheus/client_model                               v0.3.0                                    go-module  
 github.com/prometheus/common                                     v0.37.0                                   go-module  
 github.com/prometheus/procfs                                     v0.8.0                                    go-module  
-github.com/rubenv/sql-migrate                                    v1.2.0                                    go-module  
+github.com/rubenv/sql-migrate                                    v1.3.1                                    go-module  
 github.com/russross/blackfriday/v2                               v2.1.0                                    go-module  
 github.com/shopspring/decimal                                    v1.2.0                                    go-module  
+github.com/shopspring/decimal                                    v1.3.1                                    go-module  
 github.com/sirupsen/logrus                                       v1.9.0                                    go-module  
 github.com/spf13/afero                                           v1.2.2                                    go-module  
 github.com/spf13/cast                                            v1.3.1                                    go-module  
+github.com/spf13/cast                                            v1.5.0                                    go-module  
 github.com/spf13/cobra                                           v1.6.0                                    go-module  
 github.com/spf13/cobra                                           v1.6.1                                    go-module  
 github.com/spf13/pflag                                           v1.0.5                                    go-module  
@@ -782,7 +786,7 @@ gopkg.in/inf.v0                                                  v0.9.1         
 gopkg.in/ini.v1                                                  v1.66.2                                   go-module  
 gopkg.in/yaml.v2                                                 v2.4.0                                    go-module  
 gopkg.in/yaml.v3                                                 v3.0.1                                    go-module  
-helm.sh/helm/v3                                                  v0.0.0-20230208170233-293b50c65d4d        go-module  
+helm.sh/helm/v3                                                  v0.0.0-20230308205603-912ebc1cd10d        go-module  
 iftop                                                            0.17-r9                                   apk        
 iperf                                                            2.1.8-r0                                  apk        
 jmespath                                                         1.0.1                                     python     
@@ -812,7 +816,7 @@ krb5-libs                                                        1.20.1-r0      
 ldns                                                             1.8.3-r0                                  apk        
 libbz2                                                           1.0.8-r4                                  apk        
 libc-utils                                                       0.7.2-r3                                  apk        
-libcom_err                                                       1.46.5-r4                                 apk        
+libcom_err                                                       1.46.6-r0                                 apk        
 libcrypto3                                                       3.0.8-r0                                  apk        
 libcurl                                                          7.88.1-r0                                 apk        
 libexpat                                                         2.5.0-r0                                  apk        
@@ -879,7 +883,7 @@ speedtest-cli                                                    2.1.3-r3       
 sqlite-libs                                                      3.40.1-r0                                 apk        
 ssl_client                                                       1.35.0-r29                                apk        
 terraform                                                        1.3.4-r2                                  apk        
-urllib3                                                          1.26.14                                   python     
+urllib3                                                          1.26.15                                   python     
 xz-libs                                                          5.2.9-r0                                  apk        
 yajl                                                             2.1.0-r5                                  apk        
 zlib                                                             1.2.13-r0                                 apk        
