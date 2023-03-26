@@ -1,17 +1,19 @@
-[0;90m[0016][0m [0;33m WARN[0m some package(s) are missing CPEs. This may result in missing vulnerabilities. You may autogenerate these using: --add-cpes-if-none
+[0;90m[0012][0m [0;33m WARN[0m some package(s) are missing CPEs. This may result in missing vulnerabilities. You may autogenerate these using: --add-cpes-if-none
 NAME                              INSTALLED                           FIXED-IN                             TYPE       VULNERABILITY        SEVERITY 
-github.com/Masterminds/goutils    v1.1.0                              1.1.1                                go-module  GHSA-3839-6r69-m497  Critical  
 github.com/Masterminds/goutils    v1.1.0                              1.1.1                                go-module  GHSA-xg2h-wx96-xgxr  Low       
+github.com/Masterminds/goutils    v1.1.0                              1.1.1                                go-module  GHSA-3839-6r69-m497  Critical  
 github.com/containerd/containerd  v1.6.15                             1.6.18                               go-module  GHSA-259w-8hf6-59c2  Medium    
 github.com/containerd/containerd  v1.6.15                             1.6.18                               go-module  GHSA-hmfx-3pcx-653p  Medium    
 github.com/hashicorp/go-getter    v1.6.2                                                                   go-module  CVE-2023-0475        Medium    
 github.com/hashicorp/go-getter    v1.6.2                              1.7.0                                go-module  GHSA-jpxj-2jvg-6jv9  Medium    
-golang.org/x/net                  v0.0.0-20220927171203-f486391704dc  0.7.0                                go-module  GHSA-vvpx-j8f3-3w6h  High      
 golang.org/x/net                  v0.0.0-20220927171203-f486391704dc  0.1.1-0.20221104162952-702349b0e862  go-module  GHSA-fxg5-wq6x-vr4w  High      
 golang.org/x/net                  v0.5.0                              0.7.0                                go-module  GHSA-vvpx-j8f3-3w6h  High      
+golang.org/x/net                  v0.0.0-20220927171203-f486391704dc  0.7.0                                go-module  GHSA-vvpx-j8f3-3w6h  High      
 golang.org/x/text                 v0.3.7                              0.3.8                                go-module  GHSA-69ch-w2m2-3vjp  High      
-google.golang.org/protobuf        v1.28.1                                                                  go-module  CVE-2021-22570       Medium    
-google.golang.org/protobuf        v1.27.1                                                                  go-module  CVE-2015-5237        High      
 google.golang.org/protobuf        v1.28.1                                                                  go-module  CVE-2015-5237        High      
 google.golang.org/protobuf        v1.27.1                                                                  go-module  CVE-2021-22570       Medium    
+google.golang.org/protobuf        v1.28.1                                                                  go-module  CVE-2021-22570       Medium    
+google.golang.org/protobuf        v1.27.1                                                                  go-module  CVE-2015-5237        High      
+libcrypto3                        3.0.8-r0                            3.0.8-r1                             apk        CVE-2023-0464        Unknown   
+libssl3                           3.0.8-r0                            3.0.8-r1                             apk        CVE-2023-0464        Unknown   
 sqlite-libs                       3.40.1-r0                                                                apk        CVE-2022-46908       High      
