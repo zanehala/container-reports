@@ -516,11 +516,11 @@ alpine-baselayout                                                3.4.0-r0       
 alpine-baselayout-data                                           3.4.0-r0                                  apk        
 alpine-keys                                                      2.4-r1                                    apk        
 apk-tools                                                        2.12.10-r1                                apk        
-awscli                                                           1.27.99                                   python     
+awscli                                                           1.27.104                                  python     
 bash                                                             5.2.15-r0                                 apk        
 bind-libs                                                        9.18.11-r0                                apk        
 bind-tools                                                       9.18.11-r0                                apk        
-botocore                                                         1.29.99                                   python     
+botocore                                                         1.29.104                                  python     
 brotli-libs                                                      1.0.9-r9                                  apk        
 busybox                                                          1.35.0                                    binary     
 busybox                                                          1.35.0-r29                                apk        
@@ -817,7 +817,7 @@ ldns                                                             1.8.3-r0       
 libbz2                                                           1.0.8-r4                                  apk        
 libc-utils                                                       0.7.2-r3                                  apk        
 libcom_err                                                       1.46.6-r0                                 apk        
-libcrypto3                                                       3.0.8-r0                                  apk        
+libcrypto3                                                       3.0.8-r3                                  apk        
 libcurl                                                          7.88.1-r1                                 apk        
 libexpat                                                         2.5.0-r0                                  apk        
 libffi                                                           3.4.4-r0                                  apk        
@@ -826,7 +826,7 @@ libpcap                                                          1.10.1-r1      
 librdkafka                                                       1.9.2-r0                                  apk        
 libsasl                                                          2.1.28-r3                                 apk        
 libssh2                                                          1.10.0-r3                                 apk        
-libssl3                                                          3.0.8-r0                                  apk        
+libssl3                                                          3.0.8-r3                                  apk        
 libstdc++                                                        12.2.1_git20220924-r4                     apk        
 libuv                                                            1.44.2-r0                                 apk        
 libverto                                                         0.3.2-r1                                  apk        
@@ -844,7 +844,7 @@ net-tools                                                        2.10-r0        
 nghttp2-libs                                                     1.51.0-r0                                 apk        
 nmap                                                             7.93-r0                                   apk        
 oniguruma                                                        6.9.8-r0                                  apk        
-openssl                                                          3.0.8-r1                                  apk        
+openssl                                                          3.0.8-r3                                  apk        
 oras.land/oras-go                                                v1.2.2                                    go-module  
 packaging                                                        21.3                                      python     
 pcre                                                             8.45-r2                                   apk        
