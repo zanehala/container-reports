@@ -5,6 +5,7 @@ c158987b0551: Pulling fs layer
 c158987b0551: Verifying Checksum
 c158987b0551: Download complete
 c158987b0551: Pull complete
+8651c76bcc18: Verifying Checksum
 8651c76bcc18: Download complete
 8651c76bcc18: Pull complete
 Digest: sha256:c61f217983a48d287507d4821b171406f9bd1aac85a5bd3659ce7d442e1f9cb8
@@ -525,11 +526,11 @@ alpine-baselayout                                                3.4.3-r1       
 alpine-baselayout-data                                           3.4.3-r1                                  apk        
 alpine-keys                                                      2.4-r1                                    apk        
 apk-tools                                                        2.14.0-r2                                 apk        
-awscli                                                           1.27.160                                  python     
+awscli                                                           1.27.165                                  python     
 bash                                                             5.2.15-r5                                 apk        
 bind-libs                                                        9.18.16-r0                                apk        
 bind-tools                                                       9.18.16-r0                                apk        
-botocore                                                         1.29.160                                  python     
+botocore                                                         1.29.165                                  python     
 brotli-libs                                                      1.0.9-r14                                 apk        
 busybox                                                          1.36.1                                    binary     
 busybox                                                          1.36.1-r0                                 apk        
