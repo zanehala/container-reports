@@ -1,3 +1,6 @@
-Unable to find image 'registry.zanelab.com/zhala/image-scanner:latest' locally
-docker: Error response from daemon: received unexpected HTTP status: 503 Service Temporarily Unavailable.
-See 'docker run --help'.
+2023/10/08 00:10:22 error during command execution: 1 error occurred:
+	* failed to construct source from user input "grype": could not fetch image "grype": unable to use OciRegistry source: failed to get image descriptor from registry: GET https://index.docker.io/v2/library/grype/manifests/latest: UNAUTHORIZED: authentication required; [map[Action:pull Class: Name:library/grype Type:repository]]
+
+1 error occurred:
+	* failed to catalog: could not fetch image "grype": unable to use OciRegistry source: failed to get image descriptor from registry: GET https://index.docker.io/v2/library/grype/manifests/latest: UNAUTHORIZED: authentication required; [map[Action:pull Class: Name:library/grype Type:repository]]
+
