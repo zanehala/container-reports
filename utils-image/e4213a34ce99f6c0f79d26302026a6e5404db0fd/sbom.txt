@@ -14,7 +14,7 @@ cfa9399bf6e5: Pull complete
 4197a313f512: Pull complete
 Digest: sha256:ef2b213637c530f15769a816e80b19aa915d55ee332db72a4749ff2d47321303
 Status: Downloaded newer image for registry.zanelab.com/zhala/image-scanner:latest
-2023/10/22 00:04:31 error during command execution: 1 error occurred:
+2023/10/29 00:04:33 error during command execution: 1 error occurred:
 	* failed to construct source from user input "syft": could not fetch image "syft": unable to use OciRegistry source: failed to get image descriptor from registry: GET https://index.docker.io/v2/library/syft/manifests/latest: UNAUTHORIZED: authentication required; [map[Action:pull Class: Name:library/syft Type:repository]]
 
 1 error occurred:
