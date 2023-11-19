@@ -1,4 +1,4 @@
-2023/11/12 00:05:23 error during command execution: 1 error occurred:
+2023/11/19 00:05:42 error during command execution: 1 error occurred:
 	* failed to construct source from user input "grype": could not fetch image "grype": unable to use OciRegistry source: failed to get image descriptor from registry: GET https://index.docker.io/v2/library/grype/manifests/latest: UNAUTHORIZED: authentication required; [map[Action:pull Class: Name:library/grype Type:repository]]
 
 1 error occurred:
